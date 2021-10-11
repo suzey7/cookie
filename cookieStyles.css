@@ -1,0 +1,20 @@
+
+/* Style for all elements */
+* {
+	background-color: wheat;
+	color: navy;
+	font-family: Georgia, serif;
+}
+/* Style for element with id, pageTitle */
+#pageTitle {
+	text-align: center;
+	height: 50px;
+}
+/* Style for all h1 and h3 elements */
+h1, h3 {
+	border: 2px solid chocolate;
+}
+/* Style for element with class, boldMe */
+.boldMe {
+	font-weight: bold;
+}
